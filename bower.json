@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Marat"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/yeffasol/template",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/lib/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jquery-placeholder": "^2.3.1"
+  }
+}

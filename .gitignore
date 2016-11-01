@@ -38,6 +38,8 @@ Thumbs.db
 
 /.sass-cache
 /node_modules
+/.publish
 /dist
 /.idea
+/source/lib/bower
 
